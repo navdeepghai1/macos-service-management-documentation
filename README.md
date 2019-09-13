@@ -1,4 +1,4 @@
-# Structure and use the macOS commands
+# Structure and use of macOS commands
 ```
 	Most developer from Linux background feel very hard to deal with macOS services.
 	Services for instance:
